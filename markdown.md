@@ -1,7 +1,7 @@
 # exercice-markdown
 
 
-##  Code Blocks  
+##  Bloc Code
 
 Les blocs code permettent de spécifier au naviguateur  
 lorsqu'il s'agit d'un titre, d'un paragraphe  
@@ -18,7 +18,7 @@ lorsqu'il s'agit d'un titre, d'un paragraphe
 ***
 
 
-##  Horizontal Rules
+##  Barre Horizontale
 
 Pour mettre en place une règle horizontale continue, avec tirets, ou traits de soulignement vous devez utiliser :
 
@@ -44,3 +44,4 @@ j'adore le site : [CLIQUE ICI POUR ACCÉDER AU SITE BECODE!](https://my.becode.o
 
 ***
 ***
+
