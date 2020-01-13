@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Le Markdown
 
 ## Qu'est-ce que le Markdown ?
@@ -12,25 +11,23 @@ Vous trouverez ci-dessous la table des matières pour utiliser très simplement 
 
 ## Table des matières :
 
-* ### [Titres](markdown.md#Titres)
-* ### [Paragraphes](markdown.md#Paragraphes)
-* ### [Sauts de ligne](<markdown.md#Sauts de ligne>)
-* ### [Mise en évidence](<markdown.md#Mise en évidence>)
-* ### [Bloc de citations](<markdown.md#Bloc de citations>)
-* ### [Listes](markdown.md#Listes)
-* ### [Bloc Code](<markdown.md#Bloc Code>)
-* ### [Barre Horizontale](<markdown.md#Barre Horizontale>)
-* ### [Liens](markdown.md#Liens)
-* ### [Images](markdown.md#Images)
-* ### [Caractères d'échappement](<markdown.md#Caractères d'échappement>)
-
-
+- ### [Titres](markdown.md#Titres)
+- ### [Paragraphes](markdown.md#Paragraphes)
+- ### [Sauts de ligne](<markdown.md#Sauts de ligne>)
+- ### [Mise en évidence](<markdown.md#Mise en évidence>)
+- ### [Bloc de citations](<markdown.md#Bloc de citations>)
+- ### [Listes](markdown.md#Listes)
+- ### [Bloc Code](<markdown.md#Bloc Code>)
+- ### [Barre Horizontale](<markdown.md#Barre Horizontale>)
+- ### [Liens](markdown.md#Liens)
+- ### [Images](markdown.md#Images)
+- ### [Caractères d'échappement](<markdown.md#Caractères d'échappement>)
 
 ## Lien des consignes
 
 [https://github.com/becodeorg/LIE-Hamilton-3.19/blob/master/contenu/01-la-prairie/00-terminal-git-markdown/markdown/group-work.md](https://github.com/becodeorg/LIE-Hamilton-3.19/blob/master/contenu/01-la-prairie/00-terminal-git-markdown/markdown/group-work.md)
 
-## Contributeurs 
+## Contributeurs
 
 [Anthony Schyns](https://github.com/AnthonySchyns)
 
@@ -41,6 +38,3 @@ Vous trouverez ci-dessous la table des matières pour utiliser très simplement 
 [Dorian Goffette](https://github.com/GoffetteDorian/)
 
 [Guillaume Boeur](https://github.com/Guillaume-Boeur)
-=======
-# README
->>>>>>> ajouts-dorian
