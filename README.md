@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Le Markdown
 
 ## Qu'est-ce que le Markdown ?
@@ -40,3 +41,6 @@ Vous trouverez ci-dessous la table des matières pour utiliser très simplement 
 [Dorian Goffette](https://github.com/GoffetteDorian/)
 
 [Guillaume Boeur](https://github.com/Guillaume-Boeur)
+=======
+# README
+>>>>>>> ajouts-dorian
